@@ -1,0 +1,553 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.647);
+}
+.box1{
+    height: 88%;
+    width: 68%;
+    background-color: rgba(255, 255, 255, 0.832);
+    position: absolute;
+    left: 16%;
+    margin-top: 3%;
+    
+}
+.box3{
+    height: 32%;
+    width: 23%;
+    background-color: white;
+        position: absolute;
+    margin-top: 5%;
+    left: 2%;
+}
+ul{
+    list-style: none;
+    color: rgba(0, 0, 0, 0.53);
+    font-size: 25px;
+    position: absolute;
+    margin-top: 3%;
+    
+}
+.box16{
+    height: 15%;
+    width: 13%;
+    background-color: aqua;
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 3%;
+    left: 10%;
+}
+.box17{
+    height: 15%;
+    width: 13%;
+    background-color: rgb(255, 0, 170);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 17%;
+    left: 10%;
+}
+.box18{
+    height: 15%;
+    width: 13%;
+    background-color: rgb(30, 0, 255);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 32%;
+    left: 10%;
+}
+.box19{
+    height: 15%;
+    width: 13%;
+    background-color: rgb(0, 255, 170);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 47%;
+    left: 10%;
+}
+.one{
+    color: black;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 4%;
+}
+.short1{
+    color: rgba(0, 0, 0, 0.781);
+    position: absolute;
+    left: 24%;
+    margin-top: 10%;
+    font-size: 12px;
+}
+.two{
+    color: black;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 20%;
+}
+.short2{
+    color: rgba(0, 0, 0, 0.781);
+    position: absolute;
+    left: 24%;
+    margin-top: 26%;
+    font-size: 12px;
+}
+.three{
+    color: black;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 33%;
+}
+.short3{
+    color: rgba(0, 0, 0, 0.781);
+    position: absolute;
+    left: 24%;
+    margin-top: 39%;
+    font-size: 12px;
+}
+.four{
+    color: black;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 46%;
+}
+.short4{
+    color: rgba(0, 0, 0, 0.781);
+    position: absolute;
+    left: 24%;
+    margin-top: 52%;
+    font-size: 12px;
+}
+.box4{
+    height: 28%;
+    width: 22%;
+    background-color: white;
+    position: absolute;
+    margin-top: 4%;
+    left: 28%;
+}
+.short9{
+    color: rgba(0, 0, 0, 0.662);
+    justify-content: center;
+}
+.thirteen{
+    color: black;
+    position: absolute;
+    left: 17%;
+    font-size: 15px;
+    margin-top: 4%;
+    }
+    .fourteen{
+        color: black;
+        position: absolute;
+        left: 17%;
+        font-size: 17px;
+        margin-top: 13%;
+        }
+        .fifteen{
+            color: black;
+            position: absolute;
+            left: 17%;
+            font-size: 17px;
+            margin-top: 22%;
+            }
+    
+            .sixteen{
+                color: black;
+                position: absolute;
+                left: 17%;
+                font-size: 17px;
+                margin-top: 32%;
+                }
+.box5{
+    height: 24%;
+    width: 19%;
+    background-color: white;
+    position: absolute;
+    margin-top: 3%;
+    left: 53%;
+}
+.head11{
+    color:white;
+    position: absolute;
+    margin-top: 4%;
+}
+.button1{
+    position: absolute;
+    margin-top: 4%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.head12{
+    color: white;
+    position: absolute;
+    margin-top: 15%;
+}
+.button2{
+    position: absolute;
+    margin-top: 15%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.head13{
+    color: white;
+    position: absolute;
+    margin-top: 25%;
+}
+.button3{
+    position: absolute;
+    margin-top: 25%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.head14{
+    color: white;
+    position: absolute;
+    margin-top: 35%;
+}
+.button4{
+    position: absolute;
+    margin-top: 35%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+.head15{
+    color: white;
+    position: absolute;
+    margin-top: 45%;
+}
+.button5{
+    position: absolute;
+    margin-top: 45%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+
+.box6{
+    height: 27%;
+    width: 19%;
+    background-color: white;
+    position: absolute;
+    margin-top: 3%;
+    left: 75%;
+}
+.head1{
+    color:black;
+    position: absolute;
+    margin-top: 4%;
+    left: 3%;
+}
+.head2{
+    color: black;
+    position: absolute;
+    margin-top: 14%;
+    left: 3%;
+}
+.head3{
+    color: black;
+    position: absolute;
+    margin-top: 24%;
+    left: 3%;
+}
+.head4{
+    color: black;
+    position: absolute;
+    margin-top: 34%;
+    left: 3%;
+}
+
+.head5{
+    color: black;
+    position: absolute;
+    margin-top: 44%;
+    left: 3%;
+}
+.box2{
+    height: 53%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.737);
+    display: flex;
+    position: absolute;
+    margin-top: 28%;
+}
+.box8{
+    height: 62%;
+    width: 23%;
+    background-color: rgba(0, 0, 0, 0.437);
+    display: flex;
+        position: absolute;
+    margin-top: 7%;
+    left: 2%;
+}
+ul{
+    list-style: none;
+    color: rgba(0, 0, 0, 0.704);
+    font-size: 22px;
+    position: absolute;
+    margin-top: 6%;
+    gap: 30px;
+    
+}
+.box12{
+    height: 15%;
+    width: 12%;
+    background-color: aqua;
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 3%;
+    left: 10%;
+}
+.box13{
+    height: 15%;
+    width: 12%;
+    background-color: rgb(255, 0, 170);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 17%;
+    left: 10%;
+}
+.box14{
+    height: 15%;
+    width: 12%;
+    background-color: rgb(30, 0, 255);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 32%;
+    left: 10%;
+}
+.box15{
+    height: 15%;
+    width: 12%;
+    background-color: rgb(0, 255, 170);
+    border-radius: 48px;
+    position: absolute;
+    margin-top: 47%;
+    left: 10%;
+}
+.five{
+    color: white;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 4%;
+}
+.short5{
+    color: rgba(255, 255, 255, 0.77);
+    position: absolute;
+    left: 24%;
+    margin-top: 10%;
+    font-size: 12px;
+}
+.six{
+    color: white;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 20%;
+}
+.short6{
+    color:rgba(255, 255, 255, 0.789);
+    position: absolute;
+    left: 24%;
+    margin-top: 26%;
+    font-size: 12px;
+}
+.seven{
+    color:white;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 33%;
+}
+.short7{
+    color: rgba(255, 255, 255, 0.756);
+    position: absolute;
+    left: 24%;
+    margin-top: 39%;
+    font-size: 12px;
+}
+.eight{
+    color: white;
+    position: absolute;
+    left: 24%;
+    font-size: 17px;
+    margin-top: 46%;
+}
+.short8{
+    color: rgba(255, 255, 255, 0.778);
+    position: absolute;
+    left: 24%;
+    margin-top: 52%;
+    font-size: 12px;
+}
+.box9{
+    height: 56%;
+    width: 22%;
+    background-color: rgba(0, 0, 0, 0.437);
+    position: absolute;
+    margin-top: 5%;
+    left: 28%;
+}
+.short10{
+    color: rgba(255, 255, 255, 0.779);
+    justify-content: center;
+}
+.nine{
+color: white;
+position: absolute;
+left: 17%;
+font-size: 17px;
+margin-top: 4%;
+}
+.ten{
+    color: white;
+    position: absolute;
+    left: 17%;
+    font-size: 17px;
+    margin-top: 13%;
+    }
+    .eleven{
+        color: white;
+        position: absolute;
+        left: 17%;
+        font-size: 17px;
+        margin-top: 22%;
+        }
+
+        .twelve{
+            color: white;
+            position: absolute;
+            left: 17%;
+            font-size: 17px;
+            margin-top: 32%;
+            }
+
+.box10{
+    height: 49%;
+    width: 19%;
+    background-color: rgba(0, 0, 0, 0.437);
+    position: absolute;
+    margin-top: 5%;
+    left: 53%;
+}
+.head16{
+    color:black;
+    position: absolute;
+    margin-top: 4%;
+}
+.button6{
+    position: absolute;
+    margin-top: 4%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.head17{
+    color: black;
+    position: absolute;
+    margin-top: 15%;
+}
+.button7{
+    position: absolute;
+    margin-top: 15%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.head18{
+    color: black;
+    position: absolute;
+    margin-top: 25%;
+}
+.button8{
+    position: absolute;
+    margin-top: 25%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.head19{
+    color: black;
+    position: absolute;
+    margin-top: 35%;
+}
+.button9{
+    position: absolute;
+    margin-top: 35%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.head20{
+    color: black;
+    position: absolute;
+    margin-top: 45%;
+}
+.button10{
+    position: absolute;
+    margin-top: 45%;
+    right: 2%;
+    padding: 2px 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.box11{
+    height: 52%;
+    width: 19%;
+    background-color: rgba(0, 0, 0, 0.437);
+    position: absolute;
+    margin-top: 5%;
+    left: 75%;
+}
+.head6{
+    color: white;
+    position: absolute;
+    margin-top: 4%;
+    left: 3%;
+}
+.head7{
+    color: white;
+    position: absolute;
+    margin-top: 14%;
+    left: 3%;
+}
+.head8{
+    color: white;
+    position: absolute;
+    margin-top: 24%;
+    left: 3%;
+}
+.head9{
+    color: white;
+    position: absolute;
+    margin-top: 34%;
+    left: 3%;
+}
+
+.head10{
+    color: white;
+    position: absolute;
+    margin-top: 44%;
+    left: 3%;
+}
